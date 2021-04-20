@@ -1,5 +1,5 @@
 <h1 align="center">
-     🔁 Bin2DEC
+     🔁 Bin2Dec
 </h1>
 
 <h3 align="center">
