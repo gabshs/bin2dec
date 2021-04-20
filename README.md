@@ -18,10 +18,6 @@
    <a href="https://github.com/gabshs/bin2dec/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/gabshs/bin2dec?style=social">
   </a>
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Feito pela Rocketseat" src="https://img.shields.io/badge/feito%20por-Gabshs-%">
-  </a> 
 </p>
 
 <h4 align="center">
